@@ -5,7 +5,7 @@
     android:background="@color/teal_700"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-<!-- Imagen para icono de la app -->
+<!-- Imagen para icono de la apps -->
 
     <ImageView
         android:id="@+id/imageView"
