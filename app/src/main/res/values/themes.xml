@@ -21,4 +21,5 @@
         parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
     <style name="Theme.Prueba_Desarrollo_mobile.PopupOverlay"
         parent="ThemeOverlay.AppCompat.Light" />
+
 </resources>
